@@ -1,0 +1,9 @@
+milk-0.80
+mocha-0.75
+cinnamon-0.60
+whip-0.75
+latte-4.75
+espresso-2.00
+cappuccino-3.50
+americano-3.00
+macchiato-3.50
